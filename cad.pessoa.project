@@ -1,2 +1,4 @@
 add pessoa.controller.ts
 add pessoa.model.ts
+add endereco.controller.ts
+add endereco.model.ts
